@@ -11,8 +11,11 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Marcel-TO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=stars,prs,issues&line_height=50&show_icons=true&bg_color=-45,0f2027,2c5364,2c5364&title_color=00CBFF&text_folor=ffffff&icon_color=00CBFF&card_width=150)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marcel-TO&theme=transparent&mode=weekly&border=FFFFFF&background=45%2C2C5364%2C0F2027&ring=00CBFF&fire=00CBFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=00CBFF&currStreakLabel=DCDCDC&sideLabels=DCDCDC&dates=DCDCDC)](https://git.io/streak-stats&card_width=150)<br/>
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=marcel-to&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcel-to&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 ## 🏆 GitHub Trophies
-![My Github Trophies](https://github-profile-trophy.vercel.app/?username=Marcel-TO&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+![My Github Trophies](https://github-profile-trophy.vercel.app/?username=Marcel-TO&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![My Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Marcel-TO&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
